@@ -12,7 +12,7 @@ A simple JavaScript-run modification that will make the 0.0.305 Discord experien
 
 I suggest you read the rest of this README to ensure you know what you are doing first
 
-- You will first need to open copy the script from here
+- You will first need to open copy the script from the `DiscordMod.min.js` file
 - Open your Discord App
 - Open the developer tools with CTRL+SHIFT+I
 - Open the console tab of the developer tools
