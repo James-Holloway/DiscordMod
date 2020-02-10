@@ -24,7 +24,7 @@ I suggest you read the rest of this README to ensure you know what you are doing
 
 I hope you don't trust me at this point because I am asking you to execute a script in a developer console that tells you not to paste and execute things in it. However I can assure you I have not put anything nefarious in this code and you can check so yourself. 
 
-If you are a developer, you can dispell any worries by having a look at the source code and reading through each part. As a brief, it finds the class names then puts them into a stylesheet which then appended to the <head>
+If you are a developer, you can dispell any worries by having a look at the source code and reading through each part. As a brief, it finds the class names then puts them into a stylesheet which then appended to the head tag.
 
 If you don't want to trust this script at all, that is fine and quite wise. It's your choice and I'll see if I can assure you otherwise
 
