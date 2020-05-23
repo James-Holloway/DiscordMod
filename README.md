@@ -2,6 +2,10 @@
 
 A simple JavaScript-run modification that will make the 0.0.305 Discord experience a bit more like the previous update's experience that many people are used to and prefer
 
+### Big note
+
+**I am no longer developing this and it no longer fully works as intended, so I am archiving it. However when I last tested it, it still did lessen light mode's brutality. Feel free to build off this**
+
 ### What does it do?
 
 - Adds back in the spacers/horizontal lines between large gaps of time or different people.
